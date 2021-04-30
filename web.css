@@ -28,7 +28,5 @@ img{
     width: 100px;
 }
 .p2{
-    font-weight: bold;
-    font-style: italic;
-    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
